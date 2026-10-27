@@ -1,0 +1,15 @@
+testing
+
+error->defect->failure
+
+error=> human makes it
+defect=> error causes defect in code
+failure=> cause a failure when run
+
+sdlc=> req gathering->design->implementation->testing->maintenance and documentation
+
+stlc=> req gathering->test planning->test case design->env setup->test execution->test closure
+
+test plan->test case->test data->reports
+
+root cause analysis.
